@@ -1,0 +1,89 @@
+body{
+    user-select: none;
+    width: auto;
+    height: auto;
+    
+    background: linear-gradient(112.68deg, rgba(0, 133, 255, 0.95) 0%, rgba(237, 31, 31, 0.95) 98.47%);
+}
+
+h1{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 500px;
+    top: 150px;
+    
+    font-family: 'Lexend Peta';
+    font-style: normal;
+    font-weight: 100%;
+    font-size: 200px;
+    line-height: 250px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+
+   }
+   
+   a{
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 690px;
+    top: 750px;
+    background: rgb(240, 240, 240);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-border-radius: 22;
+    -moz-border-radius: 22;
+    border-radius: 22px;
+    color: #000;
+    font-size: 20px;
+    background: #fff;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.5s;
+
+   }
+
+   a:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-border-radius: 22;
+    -moz-border-radius: 22;
+    border-radius: 22px;
+    color: #fff;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 0);
+    text-align: center;
+    text-decoration: none;
+    transition: 0.5s;
+   }
+   
+   .dee {
+    font-family: 'Lexand Peta', sans-serif;
+    font-weight: 400;
+    font-size: 150px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+  .dee, .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+  .enn{
+    font-family: 'Lexand Peta', sans-serif;
+    font-weight: 400;
+    font-size: 150px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+  }
+
+  .enn, .later{
+    left: 500px;
+    display: inline-block;
+    line-height: 1em;
+  }
+  
+   

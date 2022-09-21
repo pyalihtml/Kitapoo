@@ -1,0 +1,77 @@
+body{
+    user-select: none;
+    width: auto;
+    height: auto;
+    font-family: 'Lexend Peta', sans-serif;
+    background: linear-gradient(90.68deg, rgba(0, 133, 255, 0.95) 0%, rgba(237, 31, 31, 0.95) 98.47%);
+}
+
+/* NAVBAR STYLING STARTS */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+    width: 99%;
+    height: 99%;
+    background: linear-gradient(270deg, rgba(237, 31, 31, 0.52) 32.99%, rgba(0, 133, 255, 0.52) 95.98%);
+    box-shadow: 10px 4px 10px rgba(0, 0, 0, 0.25);
+    color: #fff;
+   }
+   .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: 1s;
+   }
+   
+   /* LOGO */
+   .logo {
+    font-size: 32px;
+   }
+   /* NAVBAR MENU */
+   .menu {
+    list-style: none;
+    display: flex;
+    gap: 2em;
+    font-size: 18px;
+   }
+   .menu li {
+    margin-right: 20px;
+    padding: 5px 10px;
+   }
+
+   .story{
+    float:left;
+    margin-left: 1px;
+    padding: 125px;
+    transition: 0.9s;
+   }
+
+   .story-active{
+    /* Rectangle 7 */
+    text-align: center;
+    font-family: 'Lexend Peta';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1px;
+    font-size: 20px;
+    color: #fff;
+   }
+
+   h5{
+    color: #AFAFAF; 
+    font-family: 'Lexend Peta';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1px;
+    /* identical to box height */
+}
+   
+   img{
+    border-radius: 35px;
+    width: 250px;
+    height: 250px;
+   }
+   
+
